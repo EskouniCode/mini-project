@@ -1,2 +1,2 @@
 # mini-project
-front end  code 
+front-end  code HTML CSS and JavaScript
