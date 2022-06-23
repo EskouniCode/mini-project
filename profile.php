@@ -18,7 +18,7 @@
             <div style="width:83.9%;margin:auto;border:none;height:520px;border-radius:0px 0px 10px 10px;position:relative;background-color:red">
                 <img src="./logo_fb.png" style="width:100%;height:100%;border-radius:0px 0px 10px 10px;object-fit:cover;z-index:1">
                 <div style="width:180px;height:180px;position:absolute;bottom:-150px;left:0px;border:4px solid rgb(100 100 101);border-radius:50%;margin-top:-40px;margin-left:40px;z-index:999;background-color:red;">
-                    <img src="./logo_fb.png" style="width:100%;height:100%;border-radius:50%;object-fit:cover">
+                   <img src="./logo_fb.png" style="width:100%;height:100%;border-radius:50%;object-fit:cover">
                 </div>
             </div>
 
